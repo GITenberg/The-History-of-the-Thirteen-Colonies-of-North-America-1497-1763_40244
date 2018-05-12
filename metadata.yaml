@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40504'
     url: http://www.gutenberg.org/2009/agents/40504
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40244#The-History-of-the-Thirteen-Colonies-of-North-America-1497-1763
 gutenberg_issued: '2012-07-15'
 gutenberg_type: Text
 identifiers:
